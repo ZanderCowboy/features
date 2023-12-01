@@ -1,0 +1,14 @@
+{
+  "name": "@zandercowboy/features",
+  "version": "1.0.0",
+  "description": "This is a package for features used by devcontainers",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
