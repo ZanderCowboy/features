@@ -10,5 +10,8 @@
     "test": "exit 0"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "@zandercowboy:registry": "https://npm.pkg.github.com"
+  }
 }
